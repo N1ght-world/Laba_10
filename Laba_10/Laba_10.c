@@ -93,7 +93,6 @@ int main(void)
 {
     setlocale(LC_ALL, "ru_RU.UTF-8");
 
-    // БЛОК 1: Работа с трапецией
     int choice;
 
     do 
